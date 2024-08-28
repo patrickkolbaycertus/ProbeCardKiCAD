@@ -39204,7 +39204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FCR7350R"
+		(property "Value" "FCR7350B"
 			(at 76.2 218.4399 0)
 			(effects
 				(font
@@ -39769,7 +39769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FCR7350R"
+		(property "Value" "FCR7350B"
 			(at 76.2 234.9499 0)
 			(effects
 				(font
@@ -39837,7 +39837,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "165"
 			(at 360.68 295.91 90)
 			(effects
 				(font
@@ -41017,7 +41017,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "165"
 			(at 360.68 321.31 90)
 			(effects
 				(font
@@ -41763,7 +41763,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "165"
 			(at 360.68 308.61 90)
 			(effects
 				(font
@@ -43839,7 +43839,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "165"
 			(at 360.68 283.21 90)
 			(effects
 				(font
